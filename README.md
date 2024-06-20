@@ -60,7 +60,7 @@ SMTP_PASS="{smtp_password"
 EMAIL_FROM="sender_email"
 ```
 
-### Step 2: Build and Start the Docker Containers
+### Step 3: Build and Start the Docker Containers
 
 ```bash
 docker-compose up --build
